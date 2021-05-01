@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Fondamento;
+    src: url(../letras/Architects_Daughter/ArchitectsDaughter-Regular.ttf);
+}
+* {
+    font-family: 'Fondamento';
+}
+/* =============================================
+	Hoja de Estilos
+    Realizado por: Byron Vasquez
+   =============================================
+*/
+body {
+    background-image:url(../images/fodnofondo.jpeg);
+    background-size:contain;
+    background-position: center;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.tabla {
+    background-color:rgb(41, 42, 46);
+}
+
+.tabla ul {
+    list-style: none;
+    margin: 2%;
+    padding: 0;
+
+}
+
+.tabla ul li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.tabla ul li a {
+    color: white;
+    display: block;
+    padding: 10px 35px;
+    text-decoration: none;
+}
+
+.tabla ul li a:hover {
+    background-color: cornflowerblue;
+}
+
+footer {
+    color: white;
+    width: 100%;
+    clear: left;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 200px;
+    border-top: 4px solid rgb(33, 124, 71);
+
+}

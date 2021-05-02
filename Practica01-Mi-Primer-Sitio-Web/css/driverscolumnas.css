@@ -1,0 +1,42 @@
+.ind {
+    margin-right: 310px;
+    position: fixed;
+    font-size: 25px;
+
+}
+
+article {
+    text-align: justify;
+    margin-right: 500px;
+    margin-left: 300px;
+    vertical-align: top;
+    margin-top: auto;
+    text-align: justify;
+    font-size: 30px;
+
+}
+
+article h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+article img {
+    display: block;
+    margin: auto;
+    height: 400px;
+}
+
+aside {
+    margin: auto;
+    text-align: center;
+    float: right;
+    width: 50px;
+    font-size: 1.25em;
+}
+
+aside .img {
+    width: 300px;
+    float: right;
+    margin-right: 50px;
+}

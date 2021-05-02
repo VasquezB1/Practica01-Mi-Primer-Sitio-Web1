@@ -1,0 +1,17 @@
+body section {
+    text-align: justify;
+    float: center;
+    margin-left: 25px;
+    margin-right: 310px;
+    vertical-align: top;
+    border: 1px solid black;
+    margin-top: auto;
+
+}
+
+aside {
+    text-align: center;
+    float: right;
+    width: 250px;
+    font-size: 1.25em;
+}

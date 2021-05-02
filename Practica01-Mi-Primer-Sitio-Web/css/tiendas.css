@@ -8,7 +8,8 @@ body section {
     font-size: 30px;
 
 }
-.ima{
+
+.ima {
     width: 300px;
     float: right;
     position: relative;
@@ -21,19 +22,24 @@ aside {
     font-size: 1.25em;
 }
 
-aside .img{
+aside .img {
     width: 300px;
     float: left;
     margin-left: 100px;
 }
 
-.img1{
+.img1 {
     width: 250px;
     float: left;
     position: relative;
 }
-aside p{
+
+aside p {
     float: right;
     width: 20px;
 }
 
+.img12 {
+    display: block;
+    margin: auto;
+}

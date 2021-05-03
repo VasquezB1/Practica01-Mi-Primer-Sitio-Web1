@@ -59,70 +59,47 @@ Commits:
 8.-El contenido de <article> deberá contener:
 •	Tabla
 
+![image](https://user-images.githubusercontent.com/49033314/116834008-da81c280-ab81-11eb-8a6e-52c6dd8145cf.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/49033314/116834010-dc4b8600-ab81-11eb-8eda-cc9cc943a2cf.png)
 
 
 
 •	Video de Youtube
  
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116834017-e2416700-ab81-11eb-8ad7-7243228dd148.png)
+
+![image](https://user-images.githubusercontent.com/49033314/116834020-e53c5780-ab81-11eb-91c1-0deafe3a511d.png)
+
 •	Video con etiqueta video
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834024-eb323880-ab81-11eb-8aa2-6f9218ec3ad3.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/49033314/116834027-ecfbfc00-ab81-11eb-9328-0c5412559106.png)
 
 
 
  
 •	Audio con etiqueta audio
  
+ ![image](https://user-images.githubusercontent.com/49033314/116834029-f2594680-ab81-11eb-92bc-adb896c4875b.png)
+![image](https://user-images.githubusercontent.com/49033314/116834030-f4bba080-ab81-11eb-8c88-6611a3ad968b.png)
+
  
 •	Listas ordenadas y desordenadas
  
+ ![image](https://user-images.githubusercontent.com/49033314/116834033-f71dfa80-ab81-11eb-8c5d-44939a05d1cf.png)
+![image](https://user-images.githubusercontent.com/49033314/116834035-f8e7be00-ab81-11eb-9f44-9510df1d7d26.png)
+
  
 
 •	Etiquetas de texto
 
 
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/49033314/116834041-013ff900-ab82-11eb-9919-effc0bf537d7.png)
 
 
 

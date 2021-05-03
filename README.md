@@ -14,16 +14,22 @@ GitHub
 Usuario: VasquezB1
 Link: VasquezB1/Practica01-Mi-Primer-Sitio-Web1: Desarrollo Mi primer Sitio Web Programacion Hipermedial (github.com)
  ![image](https://user-images.githubusercontent.com/49033314/116833920-6cd59680-ab81-11eb-9509-69f084987341.png)
+ 
 Commits:
 
 ![image](https://user-images.githubusercontent.com/49033314/116833923-70691d80-ab81-11eb-97d3-8da02a91da7d.png)
 
 1.-Una página denominada index.html
- 
+2.
+ ![image](https://user-images.githubusercontent.com/49033314/116833937-81b22a00-ab81-11eb-890a-fee5edda8ea0.png)
+
 2.- Ocho páginas en formato *.html secundarias
- 
+3.
+ ![image](https://user-images.githubusercontent.com/49033314/116833938-8545b100-ab81-11eb-9d0f-65f35b025124.png)
+
 3.-Recursos Organizados en carpetas
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116833941-87a80b00-ab81-11eb-967b-9782a8252122.png)
+
 4.-Todas las paginas deben tener un menú de navegación.
  
  

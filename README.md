@@ -13,9 +13,10 @@ ACTIVIDADES DESARROLLADAS
 GitHub
 Usuario: VasquezB1
 Link: VasquezB1/Practica01-Mi-Primer-Sitio-Web1: Desarrollo Mi primer Sitio Web Programacion Hipermedial (github.com)
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116833920-6cd59680-ab81-11eb-9509-69f084987341.png)
 Commits:
 
+![image](https://user-images.githubusercontent.com/49033314/116833923-70691d80-ab81-11eb-97d3-8da02a91da7d.png)
 
 1.-Una página denominada index.html
  

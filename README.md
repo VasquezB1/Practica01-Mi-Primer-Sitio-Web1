@@ -107,12 +107,14 @@ Commits:
 
 9.-Se pide que los article tengan al menos una imagen y esten almacenadas en carpeta images.
 
+![image](https://user-images.githubusercontent.com/49033314/116834066-19b01380-ab82-11eb-9cff-55916e81176f.png)
 
 
 
 10.- Una página contenga 4 secciones con 3 artículos.
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834068-1c126d80-ab82-11eb-9809-6f016af63653.png)
 
 
 
@@ -135,26 +137,38 @@ Commits:
 
 11.- Diseño CSS
 
+![image](https://user-images.githubusercontent.com/49033314/116834072-1e74c780-ab82-11eb-824a-ede66eb1bccc.png)
 
+![image](https://user-images.githubusercontent.com/49033314/116834074-203e8b00-ab82-11eb-8caf-d3286f6726b9.png)
 
 
 
 12.- Pagina con dos columnas
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834079-22a0e500-ab82-11eb-9550-e8af298c467f.png)
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834083-25033f00-ab82-11eb-9deb-97690bf43741.png)
 
 
 
 
 13.- Pagina con tres columnas.
 
+![image](https://user-images.githubusercontent.com/49033314/116834089-29c7f300-ab82-11eb-8c24-cc292d43dc6a.png)
+![image](https://user-images.githubusercontent.com/49033314/116834092-2c2a4d00-ab82-11eb-99c8-d2ca28ce88f4.png)
+
+
 14.-Al menos en 4 archivos CSS.
+ 
+ ![image](https://user-images.githubusercontent.com/49033314/116834095-2f253d80-ab82-11eb-9150-6dd7bed0db1d.png)
+
  
 15.-Selectores por etiquetas, descendentes y por clase.
 
  
+![image](https://user-images.githubusercontent.com/49033314/116834106-377d7880-ab82-11eb-88a5-175a1d4d56d4.png)
 
 
                      POR CLASE                                                         DESCENDENTE                                                            POR ETIQUETA
@@ -163,7 +177,9 @@ Commits:
 
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834110-3a786900-ab82-11eb-84d7-02f49d085263.png)
 
+![image](https://user-images.githubusercontent.com/49033314/116834114-3c422c80-ab82-11eb-9e9d-e780f70b05eb.png)
 
 
 
@@ -176,7 +192,9 @@ Commits:
 17.-Personalizar hipervínculos usando pseudoclases.
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834115-3ea48680-ab82-11eb-93e1-1112d1d8a330.png)
 
+![image](https://user-images.githubusercontent.com/49033314/116834123-406e4a00-ab82-11eb-8a33-1e65b6985084.png)
 
 
 
@@ -185,9 +203,14 @@ Commits:
 
 18.-Formulario de contacto
 
+![image](https://user-images.githubusercontent.com/49033314/116834127-43693a80-ab82-11eb-8661-c5b982df03c5.png)
+![image](https://user-images.githubusercontent.com/49033314/116834130-4532fe00-ab82-11eb-97f3-fd91b2eb1792.png)
+
+
 19.-Gamma de colores
  
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116834134-46fcc180-ab82-11eb-8354-afd3d072bfac.png)
+
 
 
 RESULTADO(S) OBTENIDO(S):
@@ -211,5 +234,6 @@ Nombre de estudiante: Byron Simon Vásquez Saldaña
 Firma de estudiante: 
 
 
+![image](https://user-images.githubusercontent.com/49033314/116834138-4a904880-ab82-11eb-8652-7f256f7cb2d9.png)
 
 

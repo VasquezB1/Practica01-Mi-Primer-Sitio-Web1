@@ -20,31 +20,42 @@ Commits:
 ![image](https://user-images.githubusercontent.com/49033314/116833923-70691d80-ab81-11eb-97d3-8da02a91da7d.png)
 
 1.-Una página denominada index.html
-2.
+
  ![image](https://user-images.githubusercontent.com/49033314/116833937-81b22a00-ab81-11eb-890a-fee5edda8ea0.png)
 
 2.- Ocho páginas en formato *.html secundarias
-3.
+
  ![image](https://user-images.githubusercontent.com/49033314/116833938-8545b100-ab81-11eb-9d0f-65f35b025124.png)
 
 3.-Recursos Organizados en carpetas
+
  ![image](https://user-images.githubusercontent.com/49033314/116833941-87a80b00-ab81-11eb-967b-9782a8252122.png)
 
 4.-Todas las paginas deben tener un menú de navegación.
  
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116833969-a9a18d80-ab81-11eb-8c7f-80382c8e2a2d.png)
 
-
+ ![image](https://user-images.githubusercontent.com/49033314/116833972-ae664180-ab81-11eb-9746-6f6c30ec4552.png)
 
 5.-Las paginas html contendrán una etiqueta <header>, la cual contendrá el logo.
  
+ ![image](https://user-images.githubusercontent.com/49033314/116833977-b58d4f80-ab81-11eb-8ddb-ebdddf9f4b5a.png)
  
+ ![image](https://user-images.githubusercontent.com/49033314/116833982-b920d680-ab81-11eb-8324-6c77ed6d5d39.png)
+
+
 6.-Todas las paginas deberán tener etiqueta <footer> y uso de hipervínculos.
  
+ ![image](https://user-images.githubusercontent.com/49033314/116833986-bfaf4e00-ab81-11eb-8fc6-92852c20038c.png)
+![image](https://user-images.githubusercontent.com/49033314/116833988-c211a800-ab81-11eb-8423-b087462e403b.png)
+
  
 7.- Las paginas deberán tener dos etiquetas <section> <article> y <aside>.
  
- 
+ ![image](https://user-images.githubusercontent.com/49033314/116833992-c63dc580-ab81-11eb-894f-2f2829259afd.png)
+
+ ![image](https://user-images.githubusercontent.com/49033314/116833997-c938b600-ab81-11eb-968e-f3c915b79882.png)
+
 8.-El contenido de <article> deberá contener:
 •	Tabla
 

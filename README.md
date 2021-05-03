@@ -214,24 +214,40 @@ Commits:
 
 
 RESULTADO(S) OBTENIDO(S):
+
 •	Con el uso de html pudimos descubrir un sinfín de posibilidades al momento de desarrollar una página web.
+
 •	El uso de CSS es muy importante y nos brinda múltiples opciones de personalización.
+
 •	Al poder tener un control sobre los elementos del HTML es muy importante su uso y sus atributos.
+
 •	Podemos definir nuestras propias reglas sin ningún tipo de restricción.
+
 CONCLUSIONES:
+
 •	El lenguaje HTML es muy importante en la producción de páginas web.
+
 •	CSS nos brinda personalización dinámico y diseño a cada una de las páginas.
+
 •	Podemos decir que la navegación es un punto muy importante en el desarrollo de estas.
+
 •	El uso de las buenas practicas de desarrollo en paginas web nos mostro un mejor enfoque y mejor organización en nuestras páginas.
 
 RECOMENDACIONES:
+
 •	El uso de las buenas practicas en el diseño web es muy necesario porque cada uno de estas recomendaciones es muy importante.
+
 •	El uso de CSS es necesario en el desarrollo de estas pues cada una brinda personalización.
+
 •	El uso de letras como fondos, estilos y etc. son muy necesarios en las páginas.
+
 •	HTML es un lenguaje muy grande por lo que recomiendo su uso mas practico.
 
+
 Nombre de estudiante: Byron Simon Vásquez Saldaña
+
 Firma de estudiante: 
+
 
 
 ![image](https://user-images.githubusercontent.com/49033314/116834138-4a904880-ab82-11eb-8652-7f256f7cb2d9.png)
